@@ -24,7 +24,7 @@
 				<p>Itu tidak penting. Kau akan mendapatkan nilai cinta yang sama.</p>
 				</br>
 			<b>5. Website ini bodoh. Mengapa orang menggunakannya ?</b>
-				<p>Anda telah membuat developer website ini sedih. Mereka menyesal bahwa anda tidak menikmati kunjungan anda.</p>
+				<p>Anda telah membuat developer website ini sedih. Mereka menyesal karena anda tidak menikmati kunjungan anda.</p>
 
 
 		</div>
