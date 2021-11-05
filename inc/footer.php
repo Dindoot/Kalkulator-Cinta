@@ -1,7 +1,7 @@
 <footer>
-	<div class="footer">
-		<a href="faqs.php">FAQ's</a>	
+	<div class="footer">	
 		<a href="about.php">Tentang Kami</a>
+		<a href="faqs.php">FAQ's</a>
 		<a href="contact.php">Kontak</a>
 	</div>
 
